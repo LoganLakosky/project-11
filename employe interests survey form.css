@@ -1,0 +1,68 @@
+* {
+  font-family: Roboto, Arial;
+}
+
+.header {
+  display: flex;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px 0px 25px 0px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.label1, .label2, .label3, .label4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+
+.input1, .input2 {
+  margin-left: 5px;
+}
+
+
+.input3 {
+  padding: 25px 25px;
+}
+
+
+.label3 {
+  margin: 50px 5px 0px 0px;
+}
+
+
+.label4 {
+  margin-top: 40px;
+}
+
+
+.container2, .topic, .select {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.choices {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: -15px;
+}
+
+.para {
+  margin-right: 10px;
+}
+
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
